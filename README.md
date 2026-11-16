@@ -3,7 +3,7 @@
 An **Intelligent Contract on [GenLayer](https://www.genlayer.com/)** that resolves rental security deposit disputes between a tenant and a landlord. Instead of relying on a human arbitrator, a set of AI validators reads both sides' claims and evidence, then reaches consensus on how the deposit should be split.
 
 - **Contract:** [`rental_deposit_dispute_en.py`](./rental_deposit_dispute_en.py)
-- **Deployed (GenLayer Studio):** [`0x97563633980304935BF25613e1332e3F943bfF7b`](https://explorer-studio.genlayer.com/address/0x97563633980304935BF25613e1332e3F943bfF7b)
+- **Deployed (GenLayer Studio):** [`0x56638f06f9E7430716C4A4C61Fd6561945b254Ab`](https://explorer-studio.genlayer.com/address/0x56638f06f9E7430716C4A4C61Fd6561945b254Ab)
 - **Currency:** USD, stored as integer cents (`150000` = `$1,500.00`)
 
 ---
